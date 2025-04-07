@@ -1,5 +1,5 @@
 Easy Finance – Modern Finance Landing Page
-A responsive and user-friendly landing page designed for a finance service platform. Built using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS, the project showcases multiple loan categories, eligibility checks, and a clean user flow for potential applicants.
+A responsive and user-friendly landing page designed for a finance service platform. Built using HTML, CSS, JavaScript, and Bootstrap, the project showcases multiple loan categories, eligibility checks, and a clean user flow for potential applicants.
 
 ✨ Features:
 
